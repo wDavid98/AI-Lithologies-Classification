@@ -1,4 +1,4 @@
-![](/banner.png)
+![](banner.png)
 
 This is an academic project for Artificial Inteligence-I course at Universidad industrial de Santander
 
