@@ -1,4 +1,4 @@
-:!(https://github.com/wDavid98/AI-Lithologies-Classification/banner.png)
+![](/banner.png)
 
 This is an academic project for Artificial Inteligence-I course at Universidad industrial de Santander
 
